@@ -1,6 +1,6 @@
-package main.java.app;
+package app;
 
-import main.java.imc.*;
+import imc.*;
 
 /**
  * Hello world!

@@ -1,7 +1,8 @@
-package main.java.imc;
+package imc;
 
-import main.java.tyc.Lux;
-import main.java.tyc.LuxSensor;
+
+import tyc.Lux;
+import tyc.LuxSensor;
 
 public class LS1 extends LuxSensor {
     @Override

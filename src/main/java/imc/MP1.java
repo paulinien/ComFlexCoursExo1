@@ -1,7 +1,8 @@
-package main.java.imc;
+package imc;
 
-import main.java.tyc.L;
-import main.java.tyc.ManagerP;
+
+import tyc.L;
+import tyc.ManagerP;
 
 public class MP1 extends ManagerP {
     public MP1(L l) {

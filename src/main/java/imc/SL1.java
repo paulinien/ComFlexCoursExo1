@@ -1,8 +1,9 @@
-package main.java.imc;
+package imc;
 
-import main.java.tyc.K;
-import main.java.tyc.L;
-import main.java.tyc.SwitchL;
+
+import tyc.K;
+import tyc.L;
+import tyc.SwitchL;
 
 public class SL1 extends SwitchL {
     public SL1(K k, L l) {

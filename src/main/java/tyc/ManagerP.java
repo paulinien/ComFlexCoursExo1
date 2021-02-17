@@ -1,4 +1,4 @@
-package main.java.tyc;
+package tyc;
 
 public abstract class ManagerP implements L, J {
 

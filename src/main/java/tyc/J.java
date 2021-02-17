@@ -1,4 +1,4 @@
-package main.java.tyc;
+package tyc;
 
 public interface J {
     void setPresence(Boolean p);

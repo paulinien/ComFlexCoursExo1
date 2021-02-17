@@ -1,6 +1,7 @@
-package main.java.imc;
+package imc;
 
-import main.java.tyc.Device;
+
+import tyc.Device;
 
 public class L1 extends Device {
     @Override

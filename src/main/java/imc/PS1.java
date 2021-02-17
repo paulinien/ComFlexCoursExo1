@@ -1,7 +1,8 @@
-package main.java.imc;
+package imc;
 
-import main.java.tyc.J;
-import main.java.tyc.PreSensor;
+
+import tyc.J;
+import tyc.PreSensor;
 
 public class PS1 extends PreSensor {
 
