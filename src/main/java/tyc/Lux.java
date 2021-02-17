@@ -1,4 +1,4 @@
-package TyC;
+package main.java.tyc;
 
 public class Lux {
 

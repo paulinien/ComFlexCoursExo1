@@ -1,12 +1,12 @@
-package APP2;
+package main.java.app;
 
-import ImC.*;
+import main.java.imc.*;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class App1
 {
     public static void main( String[] args )
     {

@@ -1,15 +1,12 @@
-package TyC;
+package main.java.imc;
 
-public class SwitchL implements I {
+import main.java.tyc.K;
+import main.java.tyc.L;
+import main.java.tyc.SwitchL;
 
-    protected K k;
-    protected L l;
-    //Seuil de luminosité
-    protected int seuilLux = 500;
-
-    public SwitchL(K k, L l){
-        this.k = k;
-        this.l = l;
+public class SL1 extends SwitchL {
+    public SL1(K k, L l) {
+        super(k, l);
     }
 
     @Override

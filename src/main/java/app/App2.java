@@ -1,12 +1,14 @@
-package APP1;
+package main.java.app;
 
-import ImC.*;
+import main.java.imc.L1;
+import main.java.imc.LS1;
+import main.java.imc.SL1;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class App2
 {
     public static void main( String[] args )
     {
